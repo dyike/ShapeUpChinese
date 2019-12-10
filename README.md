@@ -15,3 +15,4 @@ __第一部分:Shaping__
 
 __第二部分:Betting__
 * [第七章——下注(落实)，不是积压](./chapter_7/Bets_Not_Backlogs.md)
+* [第八章——Bet六周](./chapter_8/Bet_Six_Weeks.md)
